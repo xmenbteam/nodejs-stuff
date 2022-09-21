@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-stuff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "tscw": "tsc --watch"
+  }
+}
